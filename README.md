@@ -1,6 +1,6 @@
 ## Edoardo Allegrini
-### 🌱 I have a bachelor’s degree in Computer Science -> 110/110 cum Laude
-### 🔭 I'm currently a master student in Cybersecurity
+#### 🌱 I have a bachelor’s degree in Computer Science -> 110/110 cum Laude
+#### 🔭 I'm currently a master student in Cybersecurity
 
 <!--
 **EdoardoAllegrini/EdoardoAllegrini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
