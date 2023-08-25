@@ -1,6 +1,5 @@
 ## Edoardo Allegrini
 #### 🌱 I have a bachelor’s degree in Computer Science -> 110/110 Cum Laude
-#### 🔭 I'm currently a master student in Cybersecurity
 <p >
   • <a href="https://edoardoallegrini.github.io/" target="_blank">Personal Website</a> •
 </p>
