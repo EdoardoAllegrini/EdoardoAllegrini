@@ -1,6 +1,6 @@
 ## Edoardo Allegrini
 #### 🔭 I am currently studying for the Master degree in Cybersecurity
-#### 🌱 I have a bachelor’s degree in Computer Science
+#### 🌱 I have a Bachelor’s degree in Computer Science
 <p >
   • <a href="https://edoardoallegrini.github.io/" target="_blank">Personal Website</a> •
 </p>
