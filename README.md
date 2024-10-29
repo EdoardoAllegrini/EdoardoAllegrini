@@ -1,6 +1,6 @@
 ## Edoardo Allegrini
-#### 🔭 Cybersecurity Master's Student
-#### 🌱 Bachelor’s degree in Computer Science 110/110 cum Laude
+#### 🔭 Cybersecurity Master's Student @ Sapienza University of Rome
+#### 🌱 Bachelor’s degree in Computer Science 110/110 cum Laude @ Sapienza University of Rome
 <p >
   • <a href="https://edoardoallegrini.github.io/" target="_blank">Personal Website</a> •
 </p>
